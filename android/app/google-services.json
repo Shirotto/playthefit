@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185504596076",
+    "project_id": "playthefit-b8637",
+    "storage_bucket": "playthefit-b8637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185504596076:android:8fb73ee49d59c228fc5849",
+        "android_client_info": {
+          "package_name": "com.example.playthefit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_AeuN9C6gCq5hJTux28JRgp1oR_oGHPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
